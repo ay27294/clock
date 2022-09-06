@@ -1,0 +1,13 @@
+.navbar-brand{
+    flex: content;
+    display: inline ;
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jumbotron{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
